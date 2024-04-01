@@ -1,3 +1,5 @@
+#Demo link:  https://huggingface.co/spaces/Piyushmryaa/CS772_ASSIGNMENT1 
+
 # CS772-Assignment 1: Implementation of Backpropagation and Training a Palindrome Network
 1. Implement BP (using any existing tool/platform not allowed)
 2. Think of the correct architecture for Palindrome
